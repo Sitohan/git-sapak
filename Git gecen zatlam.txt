@@ -12,4 +12,10 @@
 5) Что бы добавит файл 
 'git add <file name>'
 
+6) git log -- просмотр комметенных файлов
+
+7) git congif --global user.email 'sekerjanymm@gmail.com'
+git config --global user.name 'Your name';
+
+8) git commit -m 'Salam 2 was added'
 
